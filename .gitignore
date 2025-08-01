@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+venv/
+venv_pain001/
+
+temp_uploads/
+files/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+postgresql.conf
+
+alembic.ini
+alembic/
